@@ -12,8 +12,6 @@ public class Estudiante {
     private String carrera;
     private int edad;
 
-    Agrega los siguientes métodos:
-
     public String getNombre() {
         return nombre;
     }
